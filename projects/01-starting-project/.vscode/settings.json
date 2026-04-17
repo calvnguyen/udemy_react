@@ -2,7 +2,7 @@
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSaveMode": "file",
-  "files.autoSave": "afterDelay",
+  "files.autoSave": "onFocusChange",
   "files.autoSaveDelay": 1000,
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
